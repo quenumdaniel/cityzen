@@ -1,0 +1,15 @@
+ul{
+    position: relative;
+    left: -10px;
+}
+body{
+    color:rgba(137, 43, 226, 0.849);
+    background-image: url(spiders-web-1629374_1920.jpg);
+}
+a{
+    color: black;
+    border: 4px outset rgba(0, 0, 0, 0.87);
+    font-style: oblique;
+    display: block;
+    padding: 10px;
+}

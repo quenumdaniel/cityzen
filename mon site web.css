@@ -1,0 +1,22 @@
+#eneam {position: relative;
+    left: 500px;
+    bottom: 150px;
+    }
+    #uac{
+        position: relative;
+        left: 20px;   
+        bottom:200px;
+        width:15%;
+    }
+    #ber {
+        position: relative;
+        width: 30%;
+        height: 70%;
+        right: 65px;
+    }
+    h1,h2{text-align:center;
+        color:blue
+        }
+    body{
+        background-image: url(spiders-web-1629374_1280.jpg);
+    }
